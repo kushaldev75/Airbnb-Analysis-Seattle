@@ -2,7 +2,7 @@
 This is My very first Data Analysis Poject using Airbnb Data for Seattle which describes the listing activities of Housing-Stays at Seattle, WA
 
 # Inspiration
-The Project is part of my Udacity Nanodegree Program. My Aim is to seek some insights from Airbnb Data in order to leverage Business Findings and some suggestions for Future Hosts.
+The Project is part of my Udacity Nanodegree Program. My Aim is to seek some insights from Airbnb Data in order to leverage Business Decisions and some suggestions for Future Hosts.
 
 # Project Overview
 My Whole Project is summed up in "Seattle Airbnb.ipynb" Jupyter Notebook which contains following major phases-
