@@ -28,4 +28,5 @@ The following Airbnb activity is included in this Seattle dataset:
 NumPy, Pandas, Matplotlib, Seaborn and Scikit-Learn
 
 # My Findings
-Coming Soon ...
+
+Please Go to [My Blog](https://medium.com/@kushaldev75/want-house-in-seattle-986bd30f0158) on Medium to See all of My Findings
