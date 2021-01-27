@@ -27,6 +27,25 @@ The following Airbnb activity is included in this Seattle dataset:
 # Libraries Used
 NumPy, Pandas, Matplotlib, Seaborn and Scikit-Learn
 
+# Quesions I tried to address by observing Data -
+These questions which I addressed are not only for Airbnb's Business but also gives some insights for future hosts that they can observe and implement for making more from platform
+
+(1) What is the Peak Season of Housing at Seattle in terms of Price?
+
+(2) What is the Peak Season of Housing at Seattle in terms of Revenue?
+
+(3) Is there any importance of Permission of Guests allowed by Host on Listings?
+
+(4) Is there any Importance of Verification for Future Hosts?
+
+(5) What is the general Nature of Seattle Hosts from Social Perspective?
+
+(6) Is Company really providing any Benefits toHosts identified as “SuperHost” in terms of Revenue?
+
 # My Findings
 
 Please Go to [My Blog](https://medium.com/@kushaldev75/want-house-in-seattle-986bd30f0158) on Medium to See all of My Findings
+
+# Acknowledgement - 
+
+It is my very first project so I'm thankful to Udacity for this amazing learning exercise and Airbnb for providing with the Data for exploration.
